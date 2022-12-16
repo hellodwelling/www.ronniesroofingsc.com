@@ -2,3 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/index</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/store</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/reviews</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/gallery-All</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/gallery-Interior-Renovation</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/gallery-Exterior-Renovation</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Roofing-Installation</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Roofing-Repairs</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Deck-Installation</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Kitchen-Remodeling</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Bathroom-Remodels</loc>
+        <lastmod>2022-12-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
