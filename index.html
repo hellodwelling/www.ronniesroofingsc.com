@@ -1486,7 +1486,7 @@
 <div
     x-data="{
         activeImage: 0,
-        amountOfImages: 21,
+        amountOfImages: 20,
         next() {
             if (this.activeImage < this.amountOfImages - 1)
                 this.activeImage ++;
@@ -1929,27 +1929,6 @@
                             <div class="aspect-w-3 aspect-h-2">
                                 
                                     
-                                        <img class="object-cover rounded-md shadow-lg hover:scale-110 transition duration-300 ease-in-out" src="https://d3p2r6ofnvoe67.cloudfront.net/fit-in/500x500/filters:strip_exif()/media/a09a5fe7-e60d-4ad4-baea-d4ae572ca0fa.jpeg" alt="Roofing Installation for Ronnie&#x27;s Roofing in Clover, SC" loading="lazy"/>
-                                    
-                                
-                            </div>
-
-                            <div class="space-y-1 text-lg font-medium leading-6">
-                                <p class="line-clamp-3"></p>
-                                <h3 class="text-primary"></h3>
-                            </div>
-                        </button>
-                    </div>
-                </li>
-            
-        
-            
-                <li x-cloak x-data="{ shown: false }" x-intersect.full="shown = true" class=" hidden ">
-                    <div x-show="shown" x-transition:enter="transition duration-1000" x-transition:enter-start="transform translate-y-20" x-transition:enter-end="transform translate-y-0">
-                        <button @click="activeImage = 20; galleryModalOpen = true" class="block w-full h-full text-left rounded focus:outline-none focus-visible:ring focus:ring-0 focus:ring-offset-0">
-                            <div class="aspect-w-3 aspect-h-2">
-                                
-                                    
                                         <img class="object-cover rounded-md shadow-lg hover:scale-110 transition duration-300 ease-in-out" src="https://d3p2r6ofnvoe67.cloudfront.net/fit-in/500x500/filters:strip_exif()/media/90382795-5b4e-4282-8779-50f2cb908ae5.png" alt="Roofing Installation for Ronnie&#x27;s Roofing in Clover, SC" loading="lazy"/>
                                     
                                 
@@ -2179,15 +2158,6 @@
                                     </li>
                                 
                                     <li class="flex flex-col" x-show="activeImage === 19">
-                                            
-                                            
-                                            <img class="mt-2 lg:h-[481px] h-[200px] sm:h-[300px] self-center rounded-md object-cover"  src="https://d3p2r6ofnvoe67.cloudfront.net/fit-in/filters:strip_exif()/media/a09a5fe7-e60d-4ad4-baea-d4ae572ca0fa.jpeg" alt="Roofing Installation for Ronnie&#x27;s Roofing in Clover, SC" loading="lazy"/>
-
-                                            <p lorem="1" class="mt-3 text-gray-500"></p>
-                                        
-                                    </li>
-                                
-                                    <li class="flex flex-col" x-show="activeImage === 20">
                                             
                                             
                                             <img class="mt-2 lg:h-[481px] h-[200px] sm:h-[300px] self-center rounded-md object-cover"  src="https://d3p2r6ofnvoe67.cloudfront.net/fit-in/filters:strip_exif()/media/90382795-5b4e-4282-8779-50f2cb908ae5.png" alt="Roofing Installation for Ronnie&#x27;s Roofing in Clover, SC" loading="lazy"/>
