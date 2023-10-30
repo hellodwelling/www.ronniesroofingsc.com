@@ -25,13 +25,6 @@
     </url>
 
     <url>
-        <loc>https://www.ronniesroofingsc.com/service-Deck-Installation</loc>
-        <lastmod>2023-10-30</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://www.ronniesroofingsc.com/service-Kitchen-Remodeling</loc>
         <lastmod>2023-10-30</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,6 +40,13 @@
 
     <url>
         <loc>https://www.ronniesroofingsc.com/service-Siding-Repairs</loc>
+        <lastmod>2023-10-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ronniesroofingsc.com/service-Deck-and-Porches-Installation</loc>
         <lastmod>2023-10-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
